@@ -5,7 +5,7 @@ function Sobre(){
     return (
     <div>
         <Head>
-            <link rel="icon" href="https://github.com/Gabrielbzl001/ghostk/blob/master/favicon.png?raw=true"/>
+            <link rel="icon" href=""/>
             <title>Sobre</title>
         </Head>
         <h1>Sobre</h1>
