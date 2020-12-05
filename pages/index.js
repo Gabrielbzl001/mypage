@@ -6,6 +6,7 @@ function Home(){
     <div>
         <Head>
             <title>Home</title>
+            <link rel="shortcut icon" type="image/png" href="https://github.com/Gabrielbzl001/ghostk/blob/master/favicon.png?raw=true"/>
         </Head>
         <h1>Home</h1>
         <Link href="/sobre">
