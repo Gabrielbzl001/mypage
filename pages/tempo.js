@@ -12,7 +12,7 @@ function Tempo(props){
 
 export function getStaticProps(){
     const staticDate = new Date();
-    const staticDateString = staticDate.toGMSring();
+    const staticDateString = staticDate.toGMString();
 
     return{
         props : {
