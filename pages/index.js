@@ -9,8 +9,6 @@ function Home(){
             <title>Home</title>
         </Head>
         <h1>Home</h1>
-        <img src="/favicon.png"/>
-        <img src="./favicon.ico"/>
         <Link href="/sobre">
             <a>Acessar página Sobre</a>
         </Link>
