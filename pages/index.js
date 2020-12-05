@@ -5,7 +5,7 @@ function Home(){
     return (
     <div>
         <Head>
-            <link rel="icon"type="image/x-icon"href="./favicon.ico"/>
+            <link rel="icon"type="image/x-icon"href="./images/favicon.ico"/>
             <title>Home</title>
         </Head>
         <h1>Home</h1>
